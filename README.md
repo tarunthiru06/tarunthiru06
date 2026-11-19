@@ -28,3 +28,7 @@ An open-source behavioral analytics workspace that securely processes local sche
 - Antigravity
 - Git
 - GitHub
+### Connect With Me
+
+- LinkedIn: [Tarun](https://www.linkedin.com/in/tarun-t-2265b5401/)
+- GitHub: [Tarun](https://github.com/tarunthiru06)
