@@ -17,3 +17,14 @@ An open-source behavioral analytics workspace that securely processes local sche
 
 ### Connect With Me
 - GitHub: [Tarun](https://github.com/tarunthiru06)
+
+### Languages
+- Python
+- C
+- C++
+
+### Tools & Technologies
+- Visual Studio Code
+- Antigravity
+- Git
+- GitHub
