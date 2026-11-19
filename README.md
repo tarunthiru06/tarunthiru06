@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Tarun!
 
-<!--
-**tarunthiru06/tarunthiru06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer and Communication Engineering student at **Amrita Vishwa Vidyapeetham**.
 
-Here are some ideas to get you started:
+I'm passionate about software development and enjoy turning ideas into practical projects. I believe in learning by building and continuously improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- Currently pursuing Computer and Communication Engineering.
+- Building projects and exploring new technologies.
+- Interested in software engineering and problem-solving.
+
+### Featured Projects
+
+**[Audit-Me](https://github.com/tarunthiru06-design)**
+
+An open-source behavioral analytics workspace that securely processes local scheduling and communication metadata to deliver AI critiques and actionable remediation strategies.
+
+### Connect With Me
+- GitHub: [Tarun](https://github.com/tarunthiru06)
