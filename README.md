@@ -2,7 +2,7 @@
 
 2nd year Computer and Communication Engineering student at **Amrita Vishwa Vidyapeetham**.
 
-I'm interested in software engineering, "I enjoy turning ideas into reality by building practical projects and exploring new technologies."
+I'm interested in software engineering, I enjoy turning ideas into reality by building practical projects and exploring new technologies.
 
 ---
 
