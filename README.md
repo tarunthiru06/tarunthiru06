@@ -2,21 +2,14 @@
 
 Computer and Communication Engineering student at **Amrita Vishwa Vidyapeetham**.
 
-I'm passionate about software development and enjoy turning ideas into practical projects. I believe in learning by building and continuously improving my technical skills.
+I'm interested in software engineering, building projects, and developing practical solutions through code.
+
+---
 
 ### About Me
 - Currently pursuing Computer and Communication Engineering.
-- Building projects and exploring new technologies.
-- Interested in software engineering and problem-solving.
-
-### Featured Projects
-
-**[Audit-Me](https://github.com/tarunthiru06-design)**
-
-An open-source behavioral analytics workspace that securely processes local scheduling and communication metadata to deliver AI critiques and actionable remediation strategies.
-
-### Connect With Me
-- GitHub: [Tarun](https://github.com/tarunthiru06)
+- Interested in software development and problem-solving.
+- Enjoy building projects and learning new technologies.
 
 ### Languages
 - Python
@@ -28,7 +21,17 @@ An open-source behavioral analytics workspace that securely processes local sche
 - Antigravity
 - Git
 - GitHub
-### Connect With Me
 
+### Featured Project
+
+**[Audit-Me](https://github.com/tarunthiru06/Audit-Me)**
+
+An open-source behavioral analytics workspace that processes local scheduling and communication metadata to generate AI critiques and actionable remediation strategies.
+
+### GitHub Statistics
+- GitHub Profile: [View my GitHub](https://github.com/tarunthiru06)
+- Repositories: Explore my projects on GitHub.
+
+### Connect With Me
 - LinkedIn: [Tarun](https://www.linkedin.com/in/tarun-t-2265b5401/)
 - GitHub: [Tarun](https://github.com/tarunthiru06)
