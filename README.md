@@ -1,6 +1,6 @@
 # Hi, I'm Tarun!
 
-Computer and Communication Engineering student at **Amrita Vishwa Vidyapeetham**.
+2nd year Computer and Communication Engineering student at **Amrita Vishwa Vidyapeetham**.
 
 I'm interested in software engineering, building projects, and developing practical solutions through code.
 
